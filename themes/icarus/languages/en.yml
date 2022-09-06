@@ -10,6 +10,12 @@ nav:
     prev: 'Prev'
     older: 'Older'
     newer: 'Newer'
+    home: 'home'
+    people: 'meople'
+    projects: 'projects'
+    publications: 'publications'
+    products: 'products'
+    about: 'about'
 widget:
     recents: 'recent'
     archives: 'archives'

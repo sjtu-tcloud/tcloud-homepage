@@ -10,6 +10,12 @@ nav:
     prev: '上一页'
     older: '下一篇'
     newer: '上一篇'
+    home: '主页'
+    people: '成员'
+    projects: '项目'
+    publications: '论文'
+    products: '产品'
+    about: '介绍'
 widget:
     recents: '最新文章'
     archives: '归档'

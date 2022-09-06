@@ -1,14 +1,14 @@
 # Menus
 menu:
-  Home: .
+  home: .
   #Archives: archives
   #Categories: categories
   #Tags: tags
-  People: people
-  Projects: projects
-  Publications: publications
-  Products: products
-  About: about
+  people: people
+  projects: projects
+  publications: publications
+  products: products
+  about: about
 
 # Customize
 customize:
@@ -77,5 +77,4 @@ miscellaneous:
         google_plus:
     links:
         SJTU: http://www.sjtu.edu.cn
-        SE@SJTU: http://se.sjtu.edu.cn
         Appetizer: https://appetizer.io

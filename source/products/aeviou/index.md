@@ -2,18 +2,18 @@
 
 ## AEVIOU中文滑行输入法（小蜜蜂滑行输入法）Android 2.0版本发布[2014.08]
 [新特性](http://aeviou.sinaapp.com/)  [威锋论坛报道](http://bbs.feng.com/read-htm-tid-8221681.html)
-![](./aeviou-demo.jpg)
+![](./products/aeviou/aeviou-demo.jpg)
 微盘下载：http://vdisk.weibo.com/s/BK7pjOCcWheWv
-![](./aeviou.png)
+![](./products/aeviou/aeviou.png)
 百度云下载：http://pan.baidu.com/s/1gd69MEJ
-![](./panbaidu.png)
+![](./products/aeviou/panbaidu.png)
 [1.0 版本下载](http://pan.baidu.com/s/1sjI1bx7)
-![](./aeviou.gif)
+![](./products/aeviou/aeviou.gif)
 [新浪微博](http://weibo.com/u/1961313133/)
 **微信公众号：**
-![](./qrcode_for_gh_84981f2cc31e_430.jpg)
-![](./ani.gif)  ![](./learn.jpg)
-![](./intro.jpg)
+![](./products/aeviou/qrcode_for_gh_84981f2cc31e_430.jpg)
+![](./products/aeviou/ani.gif)  ![](./products/aeviou/learn.jpg)
+![](./products/aeviou/intro.jpg)
 
 **媒体报道**
 **[上海交大获第十二届全国大学生“挑战杯”最高荣誉](http://news.sjtu.edu.cn/info/1003/107826.htm)**
@@ -26,7 +26,7 @@
 [技术特征](http://tcloud.sjtu.edu.cn/projects/aeviou/abstract.pdf)  [产品说明](http://tcloud.sjtu.edu.cn/projects/aeviou/tech.pdf)
 
 # Trusted Cloud Group:Aeviou
-![](./Aeviou_logo.jpg)
+![](./products/aeviou/Aeviou_logo.jpg)
 ## Aeviou简介
 本项目是个专门为触摸屏设计的汉字输入法。本输入法充分利用了触摸屏上滑行的高效性和汉字拼音最多只有6个可能后继的特点。在传统软键盘的基础上，点击汉字的第一个拼音后，周围的键盘布局会动态改变。然后用滑行的方式输入。在输入效率上能提高很多。
 经测试，此输入法稍经学习，既能达到每两秒一字的速度，极限速度可达每秒一字，超越目前市面上其他的移动设备使用的汉字输入法输入效率，是一个具有非常良好前景的输入法。
@@ -51,26 +51,26 @@ AEVIOU输入法推出伊始，凭借动态键盘、一滑输入等独特的创�
 
 ## 荣誉
 AEVIOU蜂窝式中文滑行输入法团队，在终审决赛中创造佳绩，勇夺第12届“挑战杯”特等奖。
-![](./Hz9915rkl2.jpg)
+![](./products/aeviou/Hz9915rkl2.jpg)
 
 ## 原理
 Aeviou输入法借鉴了Swype的滑行理念，结合了汉语拼音每个字母后继最多可能不超过6个这一特性，定制了一套动态键盘。键盘会随着用户的输入而发生变化，保证所有汉字都能够无二义性的一笔划完。
 下面是Aeviou使用的简介：
-![](./Aeviou_demo.gif)
+![](./products/aeviou/Aeviou_demo.gif)
 
 [综合演示视频](http://v.youku.com/v_show/id_XMjIzMTE3MTMy.html)  [Ipad演示视频](http://v.youku.com/v_show/id_XMjEwMDU1NzI4.html)
 
 ## 测试
-![](./Aeviou_speed.jpg) ![](./Aeviou_train.jpg)
+![](./products/aeviou/Aeviou_speed.jpg) ![](./products/aeviou/Aeviou_train.jpg)
 
 ## 团队
 指导教师：[戚正伟](http://tcloud.sjtu.edu.cn/people/zhengwei/)、[梁阿磊](http://202.120.40.100/wiki/index.php/User:Liangalei)
 创始人：范晔、[董浩亮](http://202.120.40.100/wiki/index.php/User:Donghl)、[夏嘉斌](http://202.120.40.100/wiki/index.php/User:Rexpie)、傅承彦
-![创始人范晔（右）、成员傅承彦](./Aeviou_founder.jpg)
+![创始人范晔（右）、成员傅承彦](./products/aeviou/Aeviou_founder.jpg)
 Android 2.0版本 开发团队： 金正男、陆昊天、杨智渊、洪荣集
 
 ## 专利
-![](./Aeviou_patent.jpg)
+![](./products/aeviou/Aeviou_patent.jpg)
 
 ## 常见问答
 1、**Aeviou输入法和Swype有什么联系与区别**
